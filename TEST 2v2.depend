@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1728707544 source:c:\users\sya\onedrive - cape peninsula university of technology\desktop\codeblocks\test 2v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
